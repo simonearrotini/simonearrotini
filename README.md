@@ -4,6 +4,7 @@
 
 If you want to know something about me, just check my website www.simonearrotini.it
 
+#
 
 ### Languages and Tools
 <div style="display: flex; align-items: center;">
