@@ -25,3 +25,6 @@ If you want to know something about me, just check my website www.simonearrotini
     <img alt="Npm" width="25px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
 </div>
 
+#
+
+![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonearrotini&theme=shadow_green_icons=true)
